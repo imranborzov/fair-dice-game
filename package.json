@@ -1,0 +1,22 @@
+{
+  "name": "dice-game",
+  "version": "1.0.0",
+  "description": "A fair dice game with cryptographic randomness",
+  "main": "game.js",
+  "scripts": {
+    "start": "node game.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cli-table3": "^0.6.3"
+  },
+  "keywords": [
+    "dice",
+    "game",
+    "cryptography",
+    "fair",
+    "random"
+  ],
+  "author": "",
+  "license": "MIT"
+}
